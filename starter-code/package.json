@@ -1,0 +1,24 @@
+{
+  "name": "class-07-lab-nicu-adan",
+  "version": "1.0.0",
+  "description": "Day 07 Lab ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nicuparente/07-nodejs-npm-express.git"
+  },
+  "author": "Nicu Adan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicuparente/07-nodejs-npm-express/issues"
+  },
+  "homepage": "https://github.com/nicuparente/07-nodejs-npm-express#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
